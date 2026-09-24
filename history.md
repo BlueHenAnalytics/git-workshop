@@ -1,0 +1,11 @@
+## A brief history of Git and Github
+- From 1991 to 2002, development of the Linux kernel was on the rise
+	- The Linux kernel powers **billions** of devices today!
+- Linux's contributors needed to **work on the same code together**
+- For a while, they used a proprietary software called Bitkeeper
+	- But in 2005, due to a licensing dispute, Bitkeeper went behind a paywall
+- Linus Torvalds, the creator of Linux, decided that he would make his own version control software
+	- Over the span of just **two weeks**, Linus created Git
+- By 2005, he turned it over to Junio Hamano
+- At this time, Git was a command line tool - accessible and usable only through the terminal
+- Then in 2008, Git got a user interface - GitHub - which is what we know and use today

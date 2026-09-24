@@ -1,6 +1,5 @@
 # Blue Hen Data Analytics Club
-## Git/Github Workshop
-### Fall 2026
+## Git/Github Workshop - Fall 2026
 
 #### What is a README.md?
 - Central point of information about your repository*
